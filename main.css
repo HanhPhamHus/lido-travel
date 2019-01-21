@@ -1,0 +1,231 @@
+.body{
+    margin: 0px;
+   padding: 0px;
+}
+.Tour-trong-nuoc {
+    background-color: #f5f5f5;
+    width: 1440px;
+    height: 4216px;
+  }
+
+
+  .Rectangle-5 {
+    background-color: #ffffff;
+    /* padding: 0px 60px; */
+    width: 1440px;
+    height: 925px;
+}
+
+
+  .TOUR-MIN-BC {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--black);
+    /* them */
+    margin: 40px;
+  }
+
+
+
+  .Rectangle-7 {
+    width: 269px;
+    height: 336px;
+    border-radius: 3px;
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.12);
+    background-color: #ffffff;
+    display: inline-block;
+    /* margin: 23px; */
+    margin-left: 23px;
+    margin-bottom: 23px;
+  }
+
+
+  img {
+    width: 269px;
+    height: 200px;
+    object-fit: contain;
+  }
+
+  .Tour-du-lch-Nng {
+    width: 249px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--black);
+    margin: 10px;
+
+  }
+
+  .g {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+    margin-left: 13px;
+
+  }
+  .w-copy {
+    margin-left: 30px;
+  }
+  .-Ngy-4-m {
+    width: 88px;
+    height: 19px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #4a4a4a;
+    padding-left: 6px;
+  }
+
+
+  a.Rectangle-7:hover {
+    background-color: antiquewhite;
+}
+
+.date{
+
+      width: 75px;
+      height: 19px;
+      font-family: Roboto;
+      font-size: 14px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      color: #4a4a4a;
+      padding-left: 7px;
+}
+
+.Line {
+  width: 75px;
+  height: 3px;
+}
+
+.gia{
+  
+  height: 21px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ff0202;
+}
+.gia{
+	padding-top: 5px;
+}
+
+.gia .tien{
+  float:left;
+  padding-left: 10px;
+
+}
+
+.gia .tien div:first-child{
+    width: 71px;
+    height: 19px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: black;
+    text-decoration: line-through;
+}
+.gia .tien div:last-child{
+  width: 83px;
+  height: 21px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ff0202;
+}
+.xemthem{
+
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #066839;
+  margin-left: 700px;
+}
+/* .Rectangle-3 {
+  width: 107px;
+  height: 36px;
+  border-radius: 3px;
+  background-color: #0a8f4f;
+  margin-left: 53px;
+  margin-top: 5px;
+  padding: 8px 15px;
+}
+.T-NGAY {
+  width: 67px;
+  height: 19px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f9da00;
+} */
+.gia button {
+  margin-left: 53px;
+  margin-top: 5px;
+  background-color:#0a8f4f;
+  padding: 8px 15px;
+  border: none;
+  color:#f9da00;
+
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  border-radius: 3px;
+}
+
+
+.TOUR-MIN-TRUNG {
+  /* width: 212px;
+  height: 32px; */
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
